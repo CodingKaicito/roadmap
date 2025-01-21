@@ -1,0 +1,9 @@
+.projects li {
+    font-family: copperplate;
+}
+
+a:link {
+    color: #000;
+    background-color: transparent;
+    text-decoration: underline;
+}
